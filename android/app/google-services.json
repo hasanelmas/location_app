@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474227939771",
+    "project_id": "localationmapsproje",
+    "storage_bucket": "localationmapsproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474227939771:android:8da0e5edeee696edb30c9e",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474227939771-n7996tcira00kevf7t2selhbsr0vjcpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ8hOrkl8a02yTxXhqkqBc_xb8czAjvis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474227939771-n7996tcira00kevf7t2selhbsr0vjcpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
